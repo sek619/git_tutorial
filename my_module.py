@@ -9,3 +9,6 @@ def mul(a,b):
 
 def div(a, b):
     return a // b # hi
+
+def add(a, b, c):
+    return a+b+c
